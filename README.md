@@ -12,7 +12,7 @@ ESP32-based smart home project featuring:
 ---
 
 ## 🎥 Demo  
-[![Watch the video](https://img.youtube.com/vi/7154fgAhxs4/0.jpg)](https://youtu.be/7154fgAhxs4)
+[![Watch the video]([https://img.youtube.com/vi/7154fgAhxs4/0.jpg)](https://youtu.be/7154fgAhxs4](https://youtu.be/7I54fgAhxs4?si=R3BalJW8MDk16-WI))
 
 ---
 
