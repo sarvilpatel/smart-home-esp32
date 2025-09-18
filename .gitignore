@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# Arduino / PlatformIO / build
+*.bin
+*.elf
+*.hex
+*.map
+.pio/
+.build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Logs
+*.log
+
+# Private config
+include/config.h
